@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/TSOT_1/static/css/main.4ddde1bb.chunk.css",
+    "main.js": "/TSOT_1/static/js/main.f136dd4e.chunk.js",
+    "main.js.map": "/TSOT_1/static/js/main.f136dd4e.chunk.js.map",
+    "runtime-main.js": "/TSOT_1/static/js/runtime-main.38d55410.js",
+    "runtime-main.js.map": "/TSOT_1/static/js/runtime-main.38d55410.js.map",
+    "static/css/2.4af1c756.chunk.css": "/TSOT_1/static/css/2.4af1c756.chunk.css",
+    "static/js/2.b04079f1.chunk.js": "/TSOT_1/static/js/2.b04079f1.chunk.js",
+    "static/js/2.b04079f1.chunk.js.map": "/TSOT_1/static/js/2.b04079f1.chunk.js.map",
+    "index.html": "/TSOT_1/index.html",
+    "precache-manifest.37fe7f0623652a8b0e09c39a03fd9ae5.js": "/TSOT_1/precache-manifest.37fe7f0623652a8b0e09c39a03fd9ae5.js",
+    "service-worker.js": "/TSOT_1/service-worker.js",
+    "static/css/2.4af1c756.chunk.css.map": "/TSOT_1/static/css/2.4af1c756.chunk.css.map",
+    "static/css/main.4ddde1bb.chunk.css.map": "/TSOT_1/static/css/main.4ddde1bb.chunk.css.map",
+    "static/js/2.b04079f1.chunk.js.LICENSE.txt": "/TSOT_1/static/js/2.b04079f1.chunk.js.LICENSE.txt",
+    "static/media/Author.jpg": "/TSOT_1/static/media/Author.2ea1e7f7.jpg",
+    "static/media/all.css": "/TSOT_1/static/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d55410.js",
+    "static/css/2.4af1c756.chunk.css",
+    "static/js/2.b04079f1.chunk.js",
+    "static/css/main.4ddde1bb.chunk.css",
+    "static/js/main.f136dd4e.chunk.js"
+  ]
+}
